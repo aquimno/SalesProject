@@ -5,31 +5,31 @@ Java-based desktop application for managing a shoe store, featuring user registr
 
 A Java-based desktop application designed to manage the operations of a small shoe store. It supports user registration, login, product inventory display, order submissions, and sales tracking.
 
-## 📦 Features
+## Features
 
-- 👤 **User Registration & Login**  
+-  **User Registration & Login**  
   Users can register as customers and log in securely using credentials verified via stored procedures.
 
-- 🛍️ **Product Inventory**  
+-  **Product Inventory**  
   Displays all products available in the store, including their names, prices, and IDs.
 
-- 📈 **Sales Total Tracking**  
+-  **Sales Total Tracking**  
   Admins can view the total amount of sales made through the application.
 
-- 🧾 **Order Submission**  
+-  **Order Submission**  
   Customers can submit product orders, which are logged into the database.
 
-- 🛒 **New Product Submission**  
+-  **New Product Submission**  
   Admins can add new products to the inventory.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java (Swing GUI)**
 - **JDBC (Java Database Connectivity)**
 - **MySQL**
 - **Stored Procedures**
 
-## 🗃️ Database
+## Database
 
 The backend database contains tables for:
 - Users
@@ -38,7 +38,7 @@ The backend database contains tables for:
 
 Stored procedures are used for secure operations such as registration, login, retrieving product data, and calculating sales totals.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
